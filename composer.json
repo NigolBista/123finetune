@@ -1,0 +1,11 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.9",
+    "fabpot/goutte": "^4.0",
+    "smalot/pdfparser": "^1.0",
+    "league/html-to-markdown": "^5.0",
+    "phpoffice/phpword": "^0.18",
+    "phpoffice/phpspreadsheet": "^1.28",
+    "firebase/php-jwt": "^6.10"
+  }
+}

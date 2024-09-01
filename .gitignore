@@ -1,0 +1,5 @@
+vendor/
+qa-generator/scripts/fine_tune_env
+qa-generator/scripts/__pycache__
+frontend/build
+frontend/node_modules
